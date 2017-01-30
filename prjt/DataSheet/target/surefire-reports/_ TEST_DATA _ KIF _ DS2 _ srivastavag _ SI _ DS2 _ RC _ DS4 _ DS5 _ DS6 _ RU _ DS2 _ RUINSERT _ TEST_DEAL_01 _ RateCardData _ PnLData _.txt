@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: | TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.093 sec <<< FAILURE! - in | TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |
+| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |  Time elapsed: 0 sec  <<< ERROR!
+org.openqa.selenium.UnhandledAlertException: 
+Modal dialog present: 
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DS-7071BC8FF3F4', ip: '219.64.178.47', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:31974/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=ignore}]
+Session ID: e101f049-5172-470b-b2a4-300aebe6b3e0
+

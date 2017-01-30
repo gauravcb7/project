@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0.093" tests="1" errors="1" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_92\jre\bin"/>
+    <property name="java.vm.version" value="25.92-b14"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\srivastavag\workspace\DataSheet"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\srivastavag\workspace\DataSheet"/>
+    <property name="java.runtime.version" value="1.8.0_92-b14"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_92\jre\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.io.tmpdir" value="C:\Users\SRIVAS~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="C:\Users\srivastavag\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf8014609163488766428.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_92\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk1.8.0_92/bin/../jre/bin/client;C:/Program Files/Java/jdk1.8.0_92/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_92/bin/../jre/lib/i386;C:\Program Files\Java\jdk1.8.0_92\bin;C:\Python27;C:\Program Files\SafeNet\Authentication\SAC\x32;C:\Users\srivastavag\Downloads\eclipse-jee-mars-2-win32\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\srivastavag"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="srivastavag"/>
+    <property name="java.class.path" value="/C:/Users/srivastavag/Downloads/eclipse-jee-mars-2-win32/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.6.2.20150902-0001/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_92\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B clean test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_92"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_92\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_92\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\srivastavag\workspace\DataSheet\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+  </properties>
+  <testcase name="Given Workbook &quot;TEST_DATA&quot; Sheet &quot;KIF&quot; and DataSet &quot;DS2&quot;" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0"/>
+  <testcase name="Given Browser name and navigate to Url" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0.015">
+    <error message="Modal dialog present: &#10;Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;&#10;System info: host: &apos;DS-7071BC8FF3F4&apos;, ip: &apos;219.64.178.47&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;x86&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_92&apos;&#10;Driver info: org.openqa.selenium.ie.InternetExplorerDriver&#10;Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:31974/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=ignore}]&#10;Session ID: e101f049-5172-470b-b2a4-300aebe6b3e0" type="org.openqa.selenium.UnhandledAlertException">org.openqa.selenium.UnhandledAlertException: 
+Modal dialog present: 
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DS-7071BC8FF3F4', ip: '219.64.178.47', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:31974/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=ignore}]
+Session ID: e101f049-5172-470b-b2a4-300aebe6b3e0
+</error>
+    <system-out><![CDATA[Sign In
+]]></system-out>
+    <system-err><![CDATA[Started InternetExplorerDriver server (32-bit)
+2.45.0.0
+Listening on port 31974
+]]></system-err>
+  </testcase>
+  <testcase name="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <error message="Modal dialog present: &#10;Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;&#10;System info: host: &apos;DS-7071BC8FF3F4&apos;, ip: &apos;219.64.178.47&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;x86&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_92&apos;&#10;Driver info: org.openqa.selenium.ie.InternetExplorerDriver&#10;Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:31974/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=ignore}]&#10;Session ID: e101f049-5172-470b-b2a4-300aebe6b3e0" type="org.openqa.selenium.UnhandledAlertException">org.openqa.selenium.UnhandledAlertException: 
+Modal dialog present: 
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DS-7071BC8FF3F4', ip: '219.64.178.47', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:31974/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=ignore}]
+Session ID: e101f049-5172-470b-b2a4-300aebe6b3e0
+</error>
+  </testcase>
+  <testcase name="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <error message="Modal dialog present: &#10;Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;&#10;System info: host: &apos;DS-7071BC8FF3F4&apos;, ip: &apos;219.64.178.47&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;x86&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_92&apos;&#10;Driver info: org.openqa.selenium.ie.InternetExplorerDriver&#10;Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:31974/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=ignore}]&#10;Session ID: e101f049-5172-470b-b2a4-300aebe6b3e0" type="org.openqa.selenium.UnhandledAlertException">org.openqa.selenium.UnhandledAlertException: 
+Modal dialog present: 
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DS-7071BC8FF3F4', ip: '219.64.178.47', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:31974/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=ignore}]
+Session ID: e101f049-5172-470b-b2a4-300aebe6b3e0
+</error>
+    <system-out><![CDATA[RATE CARD & PnL ACTUAL DATA SHEET : null
+Sceanrio Name:Basic deal creation without rebadge tab and all mandatory fields and validation
+]]></system-out>
+  </testcase>
+  <testcase name="When Click New Deal button" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Then Navigates to KIF page" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="And Enter KIF page fields as per DataSet &quot;DS2&quot;" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="When Click save button" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Then Deal Number Successfully Created" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="When Click the SPOC button" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Then Enter SPOC details &quot;srivastavag&quot;" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="And Click save button on SPOC selection page" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Then verify SPOC Allocation section populated" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="When click Next button on KIF page" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Then Navigates to SI page" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Given Workbook &quot;TEST_DATA&quot; Sheet &quot;SI&quot; and DataSet &quot;DS2&quot;" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="And Enter basic SI page fields" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="And Enter KT fields in SI page" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="And Enter Additiona Expense fields in SI page" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="And Enter Effort Overrun Contingencies fields in SI page" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="When Click save and move to Role Creation button" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Then Navigates to Role Creation page" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="And Add Customer Role as per Datset &quot;DS4&quot; from Workbook &quot;TEST_DATA&quot; and Sheet &quot;RC&quot;" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="And Add Customer Role as per Datset &quot;DS5&quot; from Workbook &quot;TEST_DATA&quot; and Sheet &quot;RC&quot;" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="And Add Customer Role as per Datset &quot;DS6&quot; from Workbook &quot;TEST_DATA&quot; and Sheet &quot;RC&quot;" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="When Click Rampup button" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Then Navigates to Ramp Up page" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="And Insert number of rows for multiple ramp up as per Datset &quot;DS2&quot; from Workbook &quot;TEST_DATA&quot; and Sheet &quot;RU&quot;" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="And Enter details of ramp up in Insert Ramp Up window from Workbook &quot;TEST_DATA&quot; and Sheet &quot;RUINSERT&quot;" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="When Click Insert on Ramp Up window" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Then Ramp up rows get saved and reflected on UI" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="When Click Next button on Ramp Up page" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Then Navigates to Rate Card page" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="And Validate Rate Card Table Data For Given Workbook &quot;TEST_DEAL_01&quot; and Sheet &quot;RateCardData&quot;" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="When Click Next button on Rate Card page" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Then Navigates to PnL page" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="And Validate PnL Table Data For Given Workbook &quot;TEST_DEAL_01&quot; and Sheet &quot;PnLData&quot;" classname="| TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |" time="0">
+    <skipped/>
+  </testcase>
+</testsuite>
